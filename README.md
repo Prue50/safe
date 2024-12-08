@@ -1,5 +1,5 @@
 # safe
-#Encargado del repositorio Alfa
+# Encargado del repositorio: Alfa
 # Nombre : Benjamin : ubicacion : Lara
 # Nombre : Pedro : ubicacion : 2
 # Nombre : joaquin : ubicacion : 3
